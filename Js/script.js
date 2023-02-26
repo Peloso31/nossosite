@@ -6,7 +6,7 @@ function validarLogin() {
     const senhaInserida = document.getElementById("password").value;
     
     if (nomeUsuarioInserido === nomeUsuarioCorreto && senhaInserida === senhaCorreta) {
-      window.location.href = "kauany_2018.html";
+      window.location.href = "pg1.html";
     } else {
       alert("Nome de usuário ou senha incorretos. Tente novamente.");
     }
