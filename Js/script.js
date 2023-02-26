@@ -12,7 +12,7 @@ function Login() {
     }
   }
   
-  document.getElementById("btnEntrar").addEventListener("click",Login);
+  document.getElementById("btnEntrar").addEventListener("click", Login);
 
 
   
