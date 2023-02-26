@@ -1,4 +1,4 @@
-function validarLogin() {
+function Login() {
     const nomeUsuarioCorreto = "meu_usuario";
     const senhaCorreta = "minhaSenha";
     
@@ -12,7 +12,7 @@ function validarLogin() {
     }
   }
   
-  document.getElementById("btnEntrar").addEventListener("click", validarLogin);
+  document.getElementById("btnEntrar").addEventListener("click",Login);
 
 
   
