@@ -1,6 +1,6 @@
 function Login() {
-    const nomeUsuarioCorreto = "meu_usuario";
-    const senhaCorreta = "minhaSenha";
+    const nomeUsuarioCorreto = "Kauany";
+    const senhaCorreta = "01032019";
     
     const nomeUsuarioInserido = document.getElementById("username").value;
     const senhaInserida = document.getElementById("password").value;
