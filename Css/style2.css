@@ -58,7 +58,6 @@ footer p {
 body {
   background: linear-gradient(to bottom right, #222222, #444444);
   transition: background-color 0.5s ease;
-  height: 150vh;
 }
 
 body:hover {
