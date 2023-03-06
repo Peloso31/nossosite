@@ -87,3 +87,9 @@ img {
   width: 100%;
   height: 400px;
 }
+.navbar-toggler {
+  background-color: white;
+}
+.navbar-toggler-icon {
+background-color: white;
+}
